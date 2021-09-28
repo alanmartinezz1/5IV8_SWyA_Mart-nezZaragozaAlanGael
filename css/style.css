@@ -1,0 +1,33 @@
+.row>.col, .bd-example-row .row>[class^="col-"]{
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    text-align: center;
+    border: 1px solid rgba(39, 41, 43, 0.1);
+}
+
+#carouselExampleControls{
+    text-align: center;
+    margin-left: 35%;
+    width: 500px;
+}
+
+#carouselExampleControls button{
+    margin-top: 20%;
+}
+
+div #cajaces{
+    margin-left: 30%;
+    float: left;
+}
+
+div #gatoces{
+    float: left;
+}
+
+table #cajavig{
+    align-items: center;
+}
+
+#gatovig{
+    margin-left: 43%;
+}
